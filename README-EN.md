@@ -1,8 +1,8 @@
-# Patch/Keygen for Cracking Source Insight 4
+# Source Insight 4 Activation Patch / Keygen
 
 🌍 **[简体中文](README.md) | [English](README-EN.md)**
 
-This patch is used to automatically authorize Source Insight 4 without modifying any files.
+This patch is used to automatically activate Source Insight 4 without modifying any files.
 
 ## Usage
 

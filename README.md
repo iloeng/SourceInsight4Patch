@@ -1,8 +1,8 @@
-# 用于破解 Source Insight 4 的补丁/注册机
+# Source Insight 4 激活补丁 / 注册机
 
 🌍 **[English](README-EN.md) | [简体中文](README.md)**
 
-本补丁用于自动通过 Source Insight 4 的授权而无需修改任何文件。
+本补丁用于自动激活 Source Insight 4 而无需修改任何文件。
 
 ## 使用方式
 
